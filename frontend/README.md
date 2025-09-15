@@ -8,7 +8,7 @@ Users can upload an image of a pet (dog/cat/etc.), and once the backend is ready
 ## 🚀 Tech Stack
 - **React 18** – UI components
 - **Vite** – Fast build/dev server
-- **Tailwind CSS** *(optional)* – Styling (remove if not used)
+- **Tailwind CSS** – Styling
 
 ---
 
